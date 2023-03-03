@@ -1,0 +1,7 @@
+Son 17 ejercicios en total.
+
+De los resueltos, los temas son:
+	Generales				(1, 2, 3, 6)
+	Sistemas Masa-Resorte	(4, 5, 7, 8, 10, 15)
+	Péndulo Ideal			(9, 11, 12, 13, 14)
+	Péndulo Físico			(16, 17)

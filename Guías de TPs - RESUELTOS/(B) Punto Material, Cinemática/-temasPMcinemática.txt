@@ -1,0 +1,10 @@
+Son 90 ejercicios en total.
+
+De los resueltos, los temas son:
+	MRUV								(14-33, excepto: 24, 25, 30)
+	Caída de los cuerpos en el vacío	(34-46)
+	Movimiento en 2 dimensiones			(47-62)
+	Movimiento curvilíneo				(68-79)
+	Movimiento relativo					(80-90)
+
+Los ejercicios (1-13, 24, 25, 30, 63-67) no están resueltos porque no valen la pena.

@@ -1,0 +1,13 @@
+Son 152 ejercicios en total.
+
+De los resueltos, los temas son:
+	Generales													(1-28, excepto: 8)
+	Fuerzas elásticas											(29-37)
+	Fuerza de rozamiento										(38-56)
+	Movimiento circular											(57-63)
+	Fuerza gravitatoria											(64-74)
+	Fuerza Viscosa												(75, 76)
+	Impulso, Cantidad de movimiento, Trabajo, Energía, Potencia	(77-119, excepto: 116)
+	Sistema de puntos materiales								(116, 120-152)
+
+El ejercicio 8 no está resuelto porque lo relaciona con el Principio de Arquímedes, un tema de Mecánica de los Fluidos... No es gran cosa tampoco.

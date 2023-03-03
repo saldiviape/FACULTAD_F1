@@ -1,0 +1,7 @@
+Son 18 ejercicios en total.
+
+De los resueltos, los temas son:
+	Reflexión						(1-3)
+	Reflexión: Espejos Esféricos	(4-6)
+	Refracción						(7-13)
+	Refracción: Lentes Delgadas		(14-18)

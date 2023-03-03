@@ -1,0 +1,5 @@
+Son 12 ejercicios en total.
+
+De los resueltos, los temas son:
+	Rotación pura	(1-5)
+	Rototraslación	(6-12)

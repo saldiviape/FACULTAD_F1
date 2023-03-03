@@ -1,0 +1,5 @@
+Son 14 ejercicios en total.
+
+De los resueltos, los temas son:
+	Hidrostática	(1-8)
+	Hidrodinámica	(9-14)
